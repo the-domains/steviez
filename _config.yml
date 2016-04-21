@@ -1,0 +1,28 @@
+name: StevieZ
+favicon: null
+layout_spectrum: 0.7491167201660573
+typography_spectrum: 0.7790439547970891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.25178374047391117
+  lightness: 0.6277823587879539
+  saturation: 0.8903724232222885
+  rhythmicContrast: 0.4644787658471614
+purpose: []
